@@ -1,8 +1,4 @@
 server:
   port: 8083
   
-spring:
-  cloud:
-    config:
-      allow-override: true
-      override-none: false
+
